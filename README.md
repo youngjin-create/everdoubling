@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Everdoubling
 
-You can use the [editor on GitHub](https://github.com/everdoubling/everdoubling/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Everdoubling is an AI research startup.
+We are currently focusing on using language models for logical inference and financial predictions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### News
 
-### Markdown
+['수학 문제 풀어주는 AI' 대회, 1단계 20팀 선발…팀별 2억 지원](http://www.aifnlife.co.kr/news/articleView.html?idxno=9020)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent projects
 
-```markdown
-Syntax highlighted code block
+[Solving Math Word Problems with Learning Formal Meaning Representations](https://ezone.iitp.kr/common/co_0701/view?PMS_TSK_DGR_ID=2021-0-02150-001&cPage=&PMS_SRCHCHOICE1=&PMS_SRCHTEXT1=&PMS_SRCHCHOICE2=&PMS_SRCHTEXT2=&PMS_BEGDT=&PMS_ENDDT=&PMS_CHECK1=&PMS_CHECK2=&PMS_CHECK3=) (2021/07/01~2021/12/31, funded by Ministry of Science and ICT)
 
-# Header 1
-## Header 2
-### Header 3
+### Open sources
 
-- Bulleted
-- List
+[Pretraining byt5 models for Korean](https://github.com/everdoubling/byt5-Korean)
 
-1. Numbered
-2. List
+### Address
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/everdoubling/everdoubling/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+PO1120, 27, Teheran-ro 2-gil, Gangnam-gu, Seoul, South Korea
