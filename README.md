@@ -5,7 +5,7 @@ We are currently focusing on using language models for logical inference and fin
 
 ### News
 
-['수학 문제 풀어주는 AI' 대회, 1단계 20팀 선발…팀별 2억 지원](http://www.aifnlife.co.kr/news/articleView.html?idxno=9020)
+['수학 문제 풀어주는 AI' 대회, 1단계 20팀 선발…팀별 2억 지원](https://www.news1.kr/articles/?4357114)
 
 ### Recent projects
 
@@ -17,4 +17,4 @@ We are currently focusing on using language models for logical inference and fin
 
 ### Address
 
-PO1120, 27, Teheran-ro 2-gil, Gangnam-gu, Seoul, South Korea
+623Ho, 200, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea
